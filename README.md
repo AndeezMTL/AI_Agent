@@ -1,3 +1,4 @@
 # AI_Agent
-I made an AI-Agent from a tutorial on Youtube
-- the link of the video : https://www.youtube.com/watch?v=EUey9L9sgzE&list=WL&index=9
+J'ai fais AI-Agent depuis une vidéo sur Youtube
+- Le lien : https://www.youtube.com/watch?v=EUey9L9sgzE&list=WL&index=9
+- Il vous reste seulement a avoir la clé API
